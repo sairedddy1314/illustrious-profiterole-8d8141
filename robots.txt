@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# After publishing, add Sitemap: https://YOUR-LIVE-DOMAIN/sitemap.xml
